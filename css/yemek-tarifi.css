@@ -5,3 +5,29 @@ h1 {
 h2 {
     color:rgb(179, 17, 17)
 }
+
+#h4-title1 {
+    color:rgb(84, 0, 145);
+    font-size:18px;   
+}
+
+#h4-title2 {
+    color:rgb(11, 156, 60);
+    font-size:18px;
+}
+
+#h4-title3 {
+    color:rgb(12, 0, 124);
+    font-size:18px;
+}
+
+#h4-title4 {
+    color:rgb(248, 43, 77);
+    font-size:18px;
+}
+
+li {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    color: rgba(14, 8, 13, 0.979)
+}
